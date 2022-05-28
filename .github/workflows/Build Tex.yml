@@ -8,7 +8,7 @@ jobs:
       - name: Check out my files
         uses: actions/checkout@v2
       - name: Build chemistry notes
-        uses: xu-cheng/latex-action@v2
+        uses: Cicada000/latex-action@v2
         with:
           root_file: |
             Other Notes/Liang's Notes.tex
