@@ -10,7 +10,8 @@ jobs:
       - name: Build chemistry notes
         uses: xu-cheng/latex-action@v2
         with:
-          root_file: "*.tex"
+          root_file: |
+            Other Notes/Liang's Notes.tex
           latexmk_use_xelatex: true
           latexmk_shell_escape: true
           work_in_root_file_dir: true
@@ -19,4 +20,4 @@ jobs:
         with:
           name: PDF
           path: |
-          /
+            Other Notes/Liang's Notes.pdf
