@@ -29,7 +29,7 @@
 
 |     名称      |      范围      |                            源文件                            |                             PDF                              |    来源    |
 | :-----------: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
-| Liang's Notes | 简答题答题技巧 | [Liang's Notes.tex](https://github.com/Cicada000/Geography-Notes/blob/main/Other%20Notes/Liang's%20Notes/Liang's%20Notes.tex) | [Liang's Notes](https://github.com/Cicada000/Geography-Notes/actions/runs/2401192862) | 同学的笔记 |
+| Liang's Notes | 简答题答题技巧 | [Liang's Notes.tex](https://github.com/Cicada000/Geography-Notes/blob/main/Other%20%20Notes/Liang's%20Notes/Liang's%20Notes.tex) | [Liang's Notes](https://github.com/Cicada000/Geography-Notes/actions/runs/2401192862) | 同学的笔记 |
 
 ## 知识共享 & 法律信息
 
