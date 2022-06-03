@@ -1,17 +1,17 @@
 name: LaTeX Build
 on: [push]
 
-jobs: 
-  build:
+jobs:
+  build_geography_notes:
     runs-on: ubuntu-latest
     steps:
       - name: Check out my files
         uses: actions/checkout@v2
-      - name: Build notes
+      - name: Build geography notes
         uses: xu-cheng/latex-action@v2
         with:
           root_file: |
-            Geography-Notes/Other Notes/Liang's Notes/Liang's Notes.tex
+            Other Notes/Liang's Notes/Liang's Notes.tex
           latexmk_use_xelatex: true
           latexmk_shell_escape: true
           work_in_root_file_dir: true
@@ -20,4 +20,4 @@ jobs:
         with:
           name: PDF
           path: |
-            Geography-Notes/Other Notes/Liang's Notes/Liang's Notes.pdf
+            Other Notes/Liang's Notes/Liang's Notes.pdf
