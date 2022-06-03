@@ -2,7 +2,7 @@ name: LaTeX Build
 on: [push]
 
 jobs:
-  build_geography_notes:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Check out my files
