@@ -1,7 +1,7 @@
 name: LaTeX Build
 on: [push]
 
-jobs:
+jobs: Build-Notes
   build:
     runs-on: ubuntu-latest
     steps:
