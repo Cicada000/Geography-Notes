@@ -21,7 +21,7 @@
 
 ## 如何下载 📥
 
-&emsp;&emsp;说了这么多没用的废话，那么如何下载这些笔记呢？这些上传至Github的Tex文件我都使用Github Actions进行了编译，只需[点击这里](https://github.com/Cicada000/Geography-Notes/actions)并找到最后编译的Action即可下载所有笔记。GitHub Actions真是好文明，这样就不用频繁开电脑进行编译了，一些小的改动只用在浏览器上在线即可完成。🎉
+&emsp;&emsp;说了这么多没用的废话，那么如何下载这些笔记呢？这些上传至Github的Tex文件我都使用Github Actions进行了编译，只需点击[![这里](https://camo.githubusercontent.com/c864d5ed3fa361052c6891846a375d92050d59f882cc33aec9f64632da02bb3b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676974687562253230616374696f6e732d2532333236373145352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562616374696f6e73266c6f676f436f6c6f723d7768697465)](https://github.com/Cicada000/Geography-Notes/actions)并找到最后编译的Action即可下载所有笔记。GitHub Actions真是好文明，这样就不用频繁开电脑进行编译了，一些小的改动只用在浏览器上在线即可完成。🎉
 
 ## 索引  🔗
 
