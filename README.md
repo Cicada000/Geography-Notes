@@ -21,15 +21,16 @@
 
 ## 如何下载 📥
 
-&emsp;&emsp;说了这么多没用的废话，那么如何下载这些笔记呢？这些上传至Github的Tex文件我都使用Github Actions进行了编译，只需[点击这里](https://github.com/Cicada000/Geography-Notes/actions)即可下载相应笔记。GitHub Actions真是好文明，这样就不用频繁开电脑进行编译了，一些小的改动只用在浏览器上在线即可完成。🎉
+&emsp;&emsp;说了这么多没用的废话，那么如何下载这些笔记呢？这些上传至Github的Tex文件我都使用Github Actions进行了编译，只需[点击这里](https://github.com/Cicada000/Geography-Notes/actions)并找到最后编译的Action即可下载所有笔记。GitHub Actions真是好文明，这样就不用频繁开电脑进行编译了，一些小的改动只用在浏览器上在线即可完成。🎉
 
 ## 索引  🔗
 
 &emsp;&emsp;为了方便大家寻找自己需求的笔记，可以参考这个索引进行寻找。
 
-|     名称      |      范围      |                            源文件                            |                             PDF                              |    来源    |
-| :-----------: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
-| Liang's Notes | 简答题答题技巧 | [Liang's Notes.tex](https://github.com/Cicada000/Geography-Notes/blob/main/Other/Liang's%20Notes/Liang's%20Notes.tex) | [Liang's Notes](https://github.com/Cicada000/Geography-Notes/actions/runs/2433291545) | 同学的笔记 |
+|     名称      |        范围        |       来源       |
+| :-----------: | :----------------: | :--------------: |
+| Liang's Notes |   简答题答题技巧   |    同学的笔记    |
+|   XDF Notes   | 较为全面的复习笔记 | 同学的新东方资料 |
 
 ## 知识共享 & 法律信息
 
