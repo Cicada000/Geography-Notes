@@ -35,3 +35,5 @@
 ## 知识共享 & 法律信息
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />这些笔记在<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a>下发布。
+
+## 由于个人精力原因，本仓库将归档不再更新 2023.11.06
